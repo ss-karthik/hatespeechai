@@ -1,0 +1,2 @@
+# hatespeechai
+HateSpeech Detection
